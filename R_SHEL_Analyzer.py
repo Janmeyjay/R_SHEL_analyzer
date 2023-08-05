@@ -158,7 +158,7 @@ def create_about_tab(frame):
                                            "Note: Ensure the entered values are correct before\n" 
                                            "proceeding with the image processing.\n\n\n\n"
                                            "Creator: Janmey Jay panda\n"
-                                           "Version: 1.0\nLisence: MIT License\n"
+                                           "Version: 1.0\nLisence: BSD 3-Clause License\n"
                                            "Copyright (c) 2023 Janmeyjay\n", bg="#f0f0f0", font=("Helvetica", 10),justify="left")
     about_label.pack(padx=20, pady=20)
 
@@ -246,7 +246,7 @@ def main():
     root.configure(bg="#f0f0f0")  # Set background color
 
     # Set the path to your ICO file
-    icon_path = "C:/Users/Janmey Jay/Desktop/trial_gui/R_SHEL.ico"
+    icon_path = "R_SHEL.ico"
     root.iconbitmap(icon_path)  # Set the icon for the GUI window
 
     tab_control = ttk.Notebook(root)
