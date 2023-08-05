@@ -1,0 +1,6 @@
+PyQt5==5.15.7
+opencv-python==4.8.0.74
+numpy==1.25.0
+scipy==1.10.1
+matplotlib==3.7.1
+cx-Freeze==6.15.5
