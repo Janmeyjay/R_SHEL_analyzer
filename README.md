@@ -38,7 +38,7 @@ To create an executable of the R_SHEL Analyzer application, you can use the `cx_
 ## Caution
 - R_SHEL Analyzer requires the input images to be in a specific format. Make sure the image names follow the format '**img0_0_*.png**', where '*' represents any characters after the specified format.
 
-##Dependencies
+## Dependencies
 The following dependencies are required to run the R_SHEL Analyzer:
 
 - Python 3.x
@@ -48,7 +48,7 @@ The following dependencies are required to run the R_SHEL Analyzer:
 - SciPy
 - Matplotlib
 
-##Usage
+## Usage
 
 1. Launch the application by running the '**R_SHEL_Analyzer.py**' script or double clicking the '**R_SHEL_Analyzer.exe**'.
 2. Browse and select a folder containing images and data files by clicking the "Browse Folder" button.
